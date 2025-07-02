@@ -68,9 +68,11 @@ categorize_col(df, 'Vote Average', labels)
 The following images are generated from the analysis:
 
 - **Genre Distribution**:
-- ![image alt](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/output%201.png)
-- **Vote Distribution**: ![Vote Distribution](output 2.png)
-- **Release Date Distribution**: ![Release Date Distribution](output 3.png)
+  ![image alt](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/output%201.png)
+- **Vote Distribution**:
+  ![image alt](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/output%201.png)
+- **Release Date Distribution**:
+  ![image alt](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/output%201.png)
 
 ## Key Findings
 - The most frequent genre of movies released on Netflix.

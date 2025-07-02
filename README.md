@@ -19,7 +19,7 @@ This CSV file contains the following columns:
 - **Poster URL**: Link to the movie's poster.
 
 #### Sample Data
-
+![image alt](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/Sample_data.png)
 ### 2. `Netflix_Data_Analysis.py`
 This Python script performs the following tasks:
 

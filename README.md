@@ -90,4 +90,3 @@ This analysis provides insights into Netflix's movie offerings, highlighting tre
 - Extend the analysis to include more recent data.
 - Explore viewer demographics and their impact on movie ratings.
 - Analyze trends over time in genres and popularity.
-```

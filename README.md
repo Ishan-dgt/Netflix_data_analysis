@@ -67,7 +67,8 @@ categorize_col(df, 'Vote Average', labels)
 ### 3. Output Images
 The following images are generated from the analysis:
 
-- **Genre Distribution**: ![Genre Distribution](output 1.png)
+- **Genre Distribution**:
+- ![Genre Distribution]([output 1.png](https://github.com/Ishan-dgt/Netflix_data_analysis/blob/main/output%201.png))
 - **Vote Distribution**: ![Vote Distribution](output 2.png)
 - **Release Date Distribution**: ![Release Date Distribution](output 3.png)
 

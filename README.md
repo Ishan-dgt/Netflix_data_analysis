@@ -1,4 +1,4 @@
-# Netflix Data Analysis Project
+# Netflix Data Analysis Project 📊
 
 ## Overview
 This project analyzes Netflix data, focusing on various attributes such as movie release dates, genres, popularity, and vote averages. The analysis is performed using Python and visualized with Matplotlib and Seaborn.
